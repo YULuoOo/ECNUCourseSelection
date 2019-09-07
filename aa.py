@@ -2,6 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+#test
 driver = webdriver.Chrome("E:\chromedriver.exe")
 
 driver.get("http://portal.ecnu.edu.cn")
